@@ -1,0 +1,1 @@
+Driver={SQL Server};Server=.\BAZA;Database=work_db;Trusted_Connection=yes;
