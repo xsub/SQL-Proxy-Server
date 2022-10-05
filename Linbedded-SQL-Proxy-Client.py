@@ -2,8 +2,6 @@ import os
 import re
 import socket
 import sys
-#import time
-#time.sleep(10)
 
 # rcvd msg
 data = '';
