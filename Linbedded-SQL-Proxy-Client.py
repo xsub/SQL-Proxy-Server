@@ -1,3 +1,5 @@
+# (c) 2014-2015 Linbedded Pawel Suchanecki
+
 import os
 import re
 import socket
