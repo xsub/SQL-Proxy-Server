@@ -1,4 +1,7 @@
-# (c) 2014-2015 Linbedded Pawel Suchanecki
+#!/usr/bin/env python
+
+# (c) 2014-2015 LINBEDDED Pawel Suchanecki
+#               pawel.suchanecki@gmail.com
 
 import os
 import re
